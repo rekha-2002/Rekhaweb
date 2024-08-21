@@ -1,2 +1,2 @@
 # Rekhaweb
-This is my 1st project
+Travel related website
